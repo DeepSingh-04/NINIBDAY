@@ -228,11 +228,7 @@ Welcome enhancements like new animations or themes.
 
 ---
 
-## 📜 License
 
-MIT License—use, modify, and celebrate freely! See [LICENSE](LICENSE).
-
----
 
 ## 🙌 Acknowledgments
 
